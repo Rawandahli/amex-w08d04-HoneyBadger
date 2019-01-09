@@ -1,6 +1,6 @@
 ![](https://i.ibb.co/F0RgMrp/logo.png)
 
-# Handeling Events a silly HoneyBadger :p
+# Handeling Events with a silly HoneyBadger :p
 
 ![](http://g.recordit.co/VEkzz9y0T6.gif)
 
