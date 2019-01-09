@@ -15,10 +15,9 @@ class Moves extends Component {
     const currBotPos = Number(character.style.bottom.slice(0, 3));
     const currRiPos = Number(character.style.right.slice(0, 3));
 
-    // handel events and move the  !!
+    // handel events and move the Character!!
   }
 
-  move;
   render() {
     return (
       <div className="container">
